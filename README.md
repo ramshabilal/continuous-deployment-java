@@ -1,7 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/CdDYOj_4)
 # sample-flask-app
 
-This is a simple flask application for practicing continuous deployment.
+This is a simple flask application for practicing continuous deployment. It is developed for CS-UH 3260.
 
 ## Running the application
 
